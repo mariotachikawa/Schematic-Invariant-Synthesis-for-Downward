@@ -22,8 +22,8 @@ The implementation was evaluated on the sciCORE cluster using standard IPC bench
 * **Correctness:** Successfully identifies correct ground invariants and valid plans.
 * **Integration:** Fully integrated into the Python translation layer of Fast Downward.
 
-### ⚖️ License & Context
+### License & Context
 
-  * **Base System:** Forked from [Fast Downward](https://github.com/aibasel/downward) (specifically the `issue1127` branch supporting negative literals).
+  * **Base System:** Forked from [Fast Downward](https://github.com/aibasel/downward).
   * **License:** GPL v3.
   * For original Fast Downward documentation, see [README\_FAST\_DOWNWARD.md](https://github.com/mariotachikawa/Schematic-Invariant-Synthesis-for-Downward/blob/main/README_FAST_DOWNWARD.md).
